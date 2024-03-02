@@ -1,0 +1,1 @@
+This is an old project from Bachelor's years. For more details about the task which has been solved, please see the pdf. And bmp image in the directory is the result image.
